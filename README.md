@@ -25,3 +25,12 @@
 5. 还有更多福利会在后期慢慢解锁.....
 
 ### 看完心动了吗，心动不如行动，加群一起搞起来
+
+#### 历史面试题链接
+1. [为什么在子线程创建Handler会抛异常？如何正确使用](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/01.%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E5%AD%90%E7%BA%BF%E7%A8%8B%E5%88%9B%E5%BB%BAHandler%E4%BC%9A%E6%8A%9B%E5%BC%82%E5%B8%B8%EF%BC%9F%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8.md)
+2. [自定义控件优化方案](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/02.%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%A7%E4%BB%B6%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.md)
+3. [谈谈你对java三大特性的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/03.%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9java%E4%B8%89%E5%A4%A7%E7%89%B9%E6%80%A7%E7%9A%84%E7%90%86%E8%A7%A3.md)
+4. [谈谈Android的事件分发机制](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/04.%E8%B0%88%E8%B0%88Android%E7%9A%84%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6.md)
+5. [Android动画有几种，对其理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/05.Android%E5%8A%A8%E7%94%BB%E6%9C%89%E5%87%A0%E7%A7%8D%EF%BC%8C%E5%AF%B9%E5%85%B6%E7%90%86%E8%A7%A3.md)
+6. [Android 内存泄漏的原因以及解决方案](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/06.Android%20%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+7. [HashMap和Hashtable的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/07.HashMap%E5%92%8CHashtable%E7%9A%84%E5%8C%BA%E5%88%AB.md)
