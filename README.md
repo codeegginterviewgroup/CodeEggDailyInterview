@@ -34,3 +34,4 @@
 5. [Android动画有几种，对其理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/05.Android%E5%8A%A8%E7%94%BB%E6%9C%89%E5%87%A0%E7%A7%8D%EF%BC%8C%E5%AF%B9%E5%85%B6%E7%90%86%E8%A7%A3.md)
 6. [Android 内存泄漏的原因以及解决方案](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/06.Android%20%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 7. [HashMap和Hashtable的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/07.HashMap%E5%92%8CHashtable%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+8. [ScrollView嵌套ListView的解决方案及其原理](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/08.ScrollView%E5%B5%8C%E5%A5%97ListView%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%8F%8A%E5%85%B6%E5%8E%9F%E7%90%86.md)
