@@ -39,3 +39,4 @@
 11. [设计模式的基本原则](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/11.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99.md)
 12. [谈谈 Java 中多线程实现的几种方式](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/12.%E8%B0%88%E8%B0%88%20Java%20%E4%B8%AD%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F.md)
 13. [如何遍历一个未知深度的树](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/13.%E5%A6%82%E4%BD%95%E9%81%8D%E5%8E%86%E4%B8%80%E4%B8%AA%E6%9C%AA%E7%9F%A5%E6%B7%B1%E5%BA%A6%E7%9A%84%E6%A0%91.md)
+14. [接口和抽象类有什么区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/14.%E6%8E%A5%E5%8F%A3%E5%92%8C%E6%8A%BD%E8%B1%A1%E7%B1%BB%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
