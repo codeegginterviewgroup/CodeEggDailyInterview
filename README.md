@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/17)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/18)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -41,4 +41,9 @@
 13. [如何遍历一个未知深度的树](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/13.%E5%A6%82%E4%BD%95%E9%81%8D%E5%8E%86%E4%B8%80%E4%B8%AA%E6%9C%AA%E7%9F%A5%E6%B7%B1%E5%BA%A6%E7%9A%84%E6%A0%91.md)
 14. [接口和抽象类有什么区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/14.%E6%8E%A5%E5%8F%A3%E5%92%8C%E6%8A%BD%E8%B1%A1%E7%B1%BB%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
 15. [谈谈对单例的理解，以及实现方式](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/15.%E8%B0%88%E8%B0%88%E5%AF%B9%E5%8D%95%E4%BE%8B%E7%9A%84%E7%90%86%E8%A7%A3%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F.md)
-16.[简述HashMap工作原理](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/16.%E7%AE%80%E8%BF%B0HashMap%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+
+16. [简述HashMap工作原理](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/16.%E7%AE%80%E8%BF%B0HashMap%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+
+17. [谈谈 ArrayList 和 LinkList 的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/17.%E8%B0%88%E8%B0%88%20ArrayList%20%E5%92%8C%20LinkList%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+18. [既然RecyclerView在很多方面能取代ListView，Google为什么没把ListView划上一条过时的横线？](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/18.%E6%97%A2%E7%84%B6RecyclerView%E5%9C%A8%E5%BE%88%E5%A4%9A%E6%96%B9%E9%9D%A2%E8%83%BD%E5%8F%96%E4%BB%A3ListView%EF%BC%8CGoogle%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%8A%8AListView%E5%88%92%E4%B8%8A%E4%B8%80%E6%9D%A1%E8%BF%87%E6%97%B6%E7%9A%84%E6%A8%AA%E7%BA%BF%EF%BC%9F.md)
