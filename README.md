@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/21)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/22)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+22.[推荐系统设计](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E5%85%B6%E4%BB%96/22.%E8%AF%B7%E8%AE%BE%E8%AE%A1%E4%B8%80%E5%A5%97%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E5%85%B7%E4%BD%93%E7%BB%86%E8%8A%82%E7%9A%84%E5%AE%9E%E7%8E%B0%20%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%BB%8E%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%BB%8F%E7%90%86%E3%80%81%E6%9E%B6%E6%9E%84%E5%B8%88%E3%80%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%A7%92%E5%BA%A6%E6%9D%A5%E5%9B%9E%E7%AD%94%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BB%8E%E4%B8%80%E4%B8%AA%E8%80%81%E6%9D%BF%E5%AE%A2%E6%88%B7%E7%9A%84%E8%A7%92%E5%BA%A6%E6%9D%A5%E8%B0%88%E8%B0%88%E6%83%B3%E8%A6%81%E4%BB%80%E4%B9%88%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BB%8E%E4%BB%BB%E4%BD%95%E8%A7%92%E5%BA%A6%E6%9D%A5%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
 21.[谈谈Java的垃圾回收机制以及触发时机](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/21.%E8%B0%88%E8%B0%88Java%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E4%BB%A5%E5%8F%8A%E8%A7%A6%E5%8F%91%E6%97%B6%E6%9C%BA.md) 
 
 20.[谈谈对「简单工厂模式」和「工厂方法模式」的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/interview/20.%E8%B0%88%E8%B0%88%E5%AF%B9%E3%80%8C%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F%E3%80%8D%E5%92%8C%E3%80%8C%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8D%E7%9A%84%E7%90%86%E8%A7%A3.md)
