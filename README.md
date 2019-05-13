@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/22)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/23)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+23.[.Android 实现异步的几种方式，原理与各自特点](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/23.Android%20%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E5%8E%9F%E7%90%86%E4%B8%8E%E5%90%84%E8%87%AA%E7%89%B9%E7%82%B9.md)
+
 22.[推荐系统设计](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E5%85%B6%E4%BB%96/22.%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
 
 21.[谈谈Java的垃圾回收机制以及触发时机](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/JVM/21.%E8%B0%88%E8%B0%88Java%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E4%BB%A5%E5%8F%8A%E8%A7%A6%E5%8F%91%E6%97%B6%E6%9C%BA.md) 
