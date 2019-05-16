@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/24)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/26)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,10 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+26.[ART和Dalvik区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%99%9A%E6%8B%9F%E6%9C%BA/26.ART%E5%92%8CDalvik%E5%8C%BA%E5%88%AB.md)
+
+25.[谈谈对运行结果的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/25.%E8%B0%88%E8%B0%88%E5%AF%B9%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
 24.[简述几种排序算法的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%AE%97%E6%B3%95%EF%BC%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/24.%E7%AE%80%E8%BF%B0%E5%87%A0%E7%A7%8D%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 23.[.Android 实现异步的几种方式，原理与各自特点](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/23.Android%20%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E5%8E%9F%E7%90%86%E4%B8%8E%E5%90%84%E8%87%AA%E7%89%B9%E7%82%B9.md)
