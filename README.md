@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+28.[谈谈 JDK8 开始的双冒号 用法及详解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/28.%E8%B0%88%E8%B0%88%20JDK8%20%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8F%8C%E5%86%92%E5%8F%B7%20%20%E7%94%A8%E6%B3%95%E5%8F%8A%E8%AF%A6%E8%A7%A3.md)
+
 27.[n个台阶，每次都可以走一步，走两步，或走三步，走到顶部一共有多少种走法](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%AE%97%E6%B3%95%EF%BC%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/27.n%E4%B8%AA%E5%8F%B0%E9%98%B6%EF%BC%8C%E6%AF%8F%E6%AC%A1%E9%83%BD%E5%8F%AF%E4%BB%A5%E8%B5%B0%E4%B8%80%E6%AD%A5%EF%BC%8C%E8%B5%B0%E4%B8%A4%E6%AD%A5%EF%BC%8C%E6%88%96%E8%B5%B0%E4%B8%89%E6%AD%A5%EF%BC%8C%E8%B5%B0%E5%88%B0%E9%A1%B6%E9%83%A8%E4%B8%80%E5%85%B1%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D%E8%B5%B0%E6%B3%95.md)
 
 26.[ART和Dalvik区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%99%9A%E6%8B%9F%E6%9C%BA/26.ART%E5%92%8CDalvik%E5%8C%BA%E5%88%AB.md)
