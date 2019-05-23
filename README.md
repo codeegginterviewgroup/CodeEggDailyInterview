@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/30)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/31)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+30.[谈谈 static 关键字的用法](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/30.%E8%B0%88%E8%B0%88%20static%20%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E7%94%A8%E6%B3%95.md)
+
 29.[Android平台的优势和不足](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E5%85%B6%E4%BB%96/29.Android%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BC%98%E5%8A%BF%E5%92%8C%E4%B8%8D%E8%B6%B3.md)
 
 28.[谈谈 JDK8 开始的双冒号 用法及详解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/28.%E8%B0%88%E8%B0%88%20JDK8%20%E5%BC%80%E5%A7%8B%E7%9A%84%E5%8F%8C%E5%86%92%E5%8F%B7%20%20%E7%94%A8%E6%B3%95%E5%8F%8A%E8%AF%A6%E8%A7%A3.md)
