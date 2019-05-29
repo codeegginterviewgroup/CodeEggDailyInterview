@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/32)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/35)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,12 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+34.[Android线程间通信有几种方法](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/34.Android%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E6%9C%89%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95%EF%BC%9F.md)
+
+33.[谈一谈对Android中Context理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/33.%E8%B0%88%E4%B8%80%E8%B0%88%E5%AF%B9Android%E4%B8%ADContext%E7%90%86%E8%A7%A3.md)
+
+32.[Android 的四大组件都需要在清单文件中注册吗？并简述四大组件](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/32.Android%20%E7%9A%84%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6%E9%83%BD%E9%9C%80%E8%A6%81%E5%9C%A8%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6%E4%B8%AD%E6%B3%A8%E5%86%8C%E5%90%97%EF%BC%9F%E5%B9%B6%E7%AE%80%E8%BF%B0%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6.md)
+
 31.[从扑克牌中随机抽 5 张牌,判断是不是顺子,即这 5 张牌是不是连续的。 2-10 为数字本身,A 为 1,J 为 11,Q 为 12,K 为 13,而大小王可以看成任意的 数字](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%AE%97%E6%B3%95%EF%BC%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/31.%E4%BB%8E%E6%89%91%E5%85%8B%E7%89%8C%E4%B8%AD%E9%9A%8F%E6%9C%BA%E6%8A%BD%205%20%E5%BC%A0%E7%89%8C%2C%E5%88%A4%E6%96%AD%E6%98%AF%E4%B8%8D%E6%98%AF%E9%A1%BA%E5%AD%90%2C%E5%8D%B3%E8%BF%99%205%20%E5%BC%A0%E7%89%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E8%BF%9E%E7%BB%AD%E7%9A%84%E3%80%82%202-10%20%E4%B8%BA%E6%95%B0%E5%AD%97%E6%9C%AC%E8%BA%AB%2CA%20%E4%B8%BA%201%2CJ%20%E4%B8%BA%2011%2CQ%20%E4%B8%BA%2012%2CK%20%E4%B8%BA%2013%2C%E8%80%8C%E5%A4%A7%E5%B0%8F%E7%8E%8B%E5%8F%AF%E4%BB%A5%E7%9C%8B%E6%88%90%E4%BB%BB%E6%84%8F%E7%9A%84%20%E6%95%B0%E5%AD%97.md)
 
 30.[谈谈 static 关键字的用法](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/30.%E8%B0%88%E8%B0%88%20static%20%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E7%94%A8%E6%B3%95.md)
