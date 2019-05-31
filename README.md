@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/36)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/37)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+36.[谈谈对「抽象工厂方法模式」的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/36%E8%B0%88%E8%B0%88%E5%AF%B9%E3%80%8C%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8D%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
 35.[谈谈数组与链表的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/35.%E8%B0%88%E8%B0%88%E6%95%B0%E7%BB%84%E4%B8%8E%E9%93%BE%E8%A1%A8%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 34.[Android线程间通信有几种方法](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/34.Android%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E6%9C%89%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95%EF%BC%9F.md)
