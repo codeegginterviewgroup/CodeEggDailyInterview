@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+37.[请介绍下Android中常用的五种布局](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/37.%E8%AF%B7%E4%BB%8B%E7%BB%8D%E4%B8%8BAndroid%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E4%BA%94%E7%A7%8D%E5%B8%83%E5%B1%80.md)
+
 36.[谈谈对「抽象工厂方法模式」的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/36%E8%B0%88%E8%B0%88%E5%AF%B9%E3%80%8C%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8D%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
 35.[谈谈数组与链表的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/35.%E8%B0%88%E8%B0%88%E6%95%B0%E7%BB%84%E4%B8%8E%E9%93%BE%E8%A1%A8%E7%9A%84%E5%8C%BA%E5%88%AB.md)
