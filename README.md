@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+39.[守护线程与阻塞线程的四种情况](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/39.%E5%AE%88%E6%8A%A4%E7%BA%BF%E7%A8%8B%E4%B8%8E%E9%98%BB%E5%A1%9E%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%83%85%E5%86%B5.md)
+
 38.[谈谈你对重入锁的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/38.%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9%E9%87%8D%E5%85%A5%E9%94%81%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
 37.[请介绍下Android中常用的五种布局](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/37.%E8%AF%B7%E4%BB%8B%E7%BB%8D%E4%B8%8BAndroid%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E4%BA%94%E7%A7%8D%E5%B8%83%E5%B1%80.md)
