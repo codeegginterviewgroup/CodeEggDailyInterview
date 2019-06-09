@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/40)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/41)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+41.[理解Activity，View,Window三者关系](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/41.%E7%90%86%E8%A7%A3Activity%EF%BC%8CView%2CWindow%E4%B8%89%E8%80%85%E5%85%B3%E7%B3%BB.md)
+
 40.[Android SharedPreference频繁操作有什么后果？能存多少数据？](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/40.Android%20SharedPreference%E9%A2%91%E7%B9%81%E6%93%8D%E4%BD%9C%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8E%E6%9E%9C%EF%BC%9F%E8%83%BD%E5%AD%98%E5%A4%9A%E5%B0%91%E6%95%B0%E6%8D%AE.md)
 
 39.[守护线程与阻塞线程的四种情况](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/39.%E5%AE%88%E6%8A%A4%E7%BA%BF%E7%A8%8B%E4%B8%8E%E9%98%BB%E5%A1%9E%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%83%85%E5%86%B5.md)
