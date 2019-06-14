@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/45)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/46)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+45.[Android的数据存储方式](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/45.Android%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E6%96%B9%E5%BC%8F.md)
+
 44.[https 三次握手四次挥手](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%BD%91%E7%BB%9C/44.https%20%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B.md)
 
 43.[谈谈对责任链模式的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/43.%E8%B0%88%E8%B0%88%E5%AF%B9%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3.md)
