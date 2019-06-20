@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/47)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/49)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,10 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+48.[简述app启动过程](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/48.%E7%AE%80%E8%BF%B0app%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
+
+47.[final, finally, finalize的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/47.final%2C%20finally%2C%20finalize%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
 46.[谈谈4种gc算法](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/JVM/46.%E8%B0%88%E8%B0%884%E7%A7%8Dgc%E7%AE%97%E6%B3%95.md)
 
 45.[Android的数据存储方式](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/45.Android%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E6%96%B9%E5%BC%8F.md)
