@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/49)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/51)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,10 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+50.(如何减小apk安装包体积)[https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/50.%E5%A6%82%E4%BD%95%E5%87%8F%E5%B0%8Fapk%E5%AE%89%E8%A3%85%E5%8C%85%E4%BD%93%E7%A7%AF.md]
+
+49.(四种LaunchMode及其使用场景)[https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/49.%E5%9B%9B%E7%A7%8DLaunchMode%E5%8F%8A%E5%85%B6%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md]
+
 48.[简述app启动过程](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/48.%E7%AE%80%E8%BF%B0app%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
 
 47.[final, finally, finalize的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/47.final%2C%20finally%2C%20finalize%E7%9A%84%E5%8C%BA%E5%88%AB.md)
