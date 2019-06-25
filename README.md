@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/51)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/52)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,9 +26,11 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
-50.(如何减小apk安装包体积)[https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/50.%E5%A6%82%E4%BD%95%E5%87%8F%E5%B0%8Fapk%E5%AE%89%E8%A3%85%E5%8C%85%E4%BD%93%E7%A7%AF.md]
+51.[谈谈 RecyclerView 的性能优化](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/51.%E8%B0%88%E8%B0%88%20RecyclerView%20%E7%9A%84%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 
-49.(四种LaunchMode及其使用场景)[https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/49.%E5%9B%9B%E7%A7%8DLaunchMode%E5%8F%8A%E5%85%B6%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md]
+50.[如何减小apk安装包体积](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/50.%E5%A6%82%E4%BD%95%E5%87%8F%E5%B0%8Fapk%E5%AE%89%E8%A3%85%E5%8C%85%E4%BD%93%E7%A7%AF.md)
+
+49.[四种LaunchMode及其使用场景](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/49.%E5%9B%9B%E7%A7%8DLaunchMode%E5%8F%8A%E5%85%B6%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 
 48.[简述app启动过程](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/48.%E7%AE%80%E8%BF%B0app%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md)
 
