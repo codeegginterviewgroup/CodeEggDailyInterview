@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/52)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/54)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,10 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+53.[谈谈你对Java中Hash码的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/53.%E8%B0%88%E8%B0%88%E4%BD%A0%E5%AF%B9Java%E4%B8%ADHash%E7%A0%81%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
+52.[break与continue的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/52.break%E4%B8%8Econtinue%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
 51.[谈谈 RecyclerView 的性能优化](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/51.%E8%B0%88%E8%B0%88%20RecyclerView%20%E7%9A%84%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 
 50.[如何减小apk安装包体积](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/50.%E5%A6%82%E4%BD%95%E5%87%8F%E5%B0%8Fapk%E5%AE%89%E8%A3%85%E5%8C%85%E4%BD%93%E7%A7%AF.md)
