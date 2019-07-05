@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/59)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/60)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -26,6 +26,10 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+60.[谈谈对生成器模式的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/60.%E8%B0%88%E8%B0%88%E5%AF%B9%E7%94%9F%E6%88%90%E5%99%A8%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
+59.[Java 中堆和栈有什么区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/59.Java%20%E4%B8%AD%E5%A0%86%E5%92%8C%E6%A0%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
+
 58.[ANR异常的产生条件及解决方案](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/58.ANR%E5%BC%82%E5%B8%B8%E7%9A%84%E4%BA%A7%E7%94%9F%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 57.[谈谈热修复的原理](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/57.%E8%B0%88%E8%B0%88%E7%83%AD%E4%BF%AE%E5%A4%8D%E7%9A%84%E5%8E%9F%E7%90%86.md)
