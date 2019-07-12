@@ -1,23 +1,11 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/63)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/65)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
 
-#### 2. 加群需要注意什么？
-1. 进群首先要修改备注，统一格式：地区 + 昵称
-2. 守住法律的底线
-3. 严禁发广告，一起维护群环境
-4. 不允许人身攻击，言语攻击既伤和气，又伤身，重要的是还会被踢，还有心梗和中风的风险
-5. 每天打卡，坚持打卡可以获得丰厚奖品，管理小哥哥会在晚上9点确认一下未打卡的群员，如未打卡则会被管理小哥哥踢掉，被踢后再加群请发个不低于10元，人均不少于1元的红包
-6. 不允许涉及黄赌毒内容，发违规内容不仅会被管理小哥哥踢，还会被警察叔叔喊去喝茶
-7. 不许群里批量加好友，如果确实要加漂亮的程序媛小姐姐，请先征得对方同意
-8. 禁止使用任何外挂，查到了第一次会被警告，第二次会被管理员小哥哥无情清理出去
-9. 每日 21 点之前需要进行小程序打卡，小程序可以搜索「码个蛋」，如果是因为修改昵称被清理，可以发送当日打卡截图给管理即可被拉回
-10. **群规包括但不限于以上，会慢慢完善，最终解释权归码个蛋所有，有违反群规的小伙伴会被无情清理**
-
-#### 3. 群福利
+#### 2. 群福利
 1. 良好的氛围，这点是必须滴
 2. 专属抽奖，奖品包括 N 多种市面上比较火的书籍
 3. 每月分享，也欢迎群友进行分享
@@ -26,6 +14,10 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+64.[Broadcast 注册方式与区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/64.Broadcast%20%E6%B3%A8%E5%86%8C%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%8C%BA%E5%88%AB.md)
+
+63.[LruCache 算法源码解析](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/63.LruCache%20%E7%AE%97%E6%B3%95%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
+
 62.[谈谈Android的安全机制](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/62.%E8%B0%88%E8%B0%88Android%E7%9A%84%E5%AE%89%E5%85%A8%E6%9C%BA%E5%88%B6.md)
 
 61.[ListView如何提高效率](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/61.ListView%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87.md)
