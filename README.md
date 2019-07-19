@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/65)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/70)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -14,6 +14,16 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+69.[http与https的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%BD%91%E7%BB%9C/69.http%E4%B8%8Ehttps%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+68.[Android与服务器交互的方式中的对称加密和非对称加密是什么](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%BD%91%E7%BB%9C/68.Android%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%A4%E4%BA%92%E7%9A%84%E6%96%B9%E5%BC%8F%E4%B8%AD%E7%9A%84%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86%E5%92%8C%E9%9D%9E%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86%E6%98%AF%E4%BB%80%E4%B9%88.md)
+
+67.[简述 tcp 和 udp的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%BD%91%E7%BB%9C/67.%E7%AE%80%E8%BF%B0%20tcp%20%E5%92%8C%20udp%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+66.[谈谈对命令模式的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/66.%E8%B0%88%E8%B0%88%E5%AF%B9%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
+65.[使用Xposed为什么需要root](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E9%80%86%E5%90%91/65.%E4%BD%BF%E7%94%A8Xposed%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81root.md)
+
 64.[Broadcast 注册方式与区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/64.Broadcast%20%E6%B3%A8%E5%86%8C%E6%96%B9%E5%BC%8F%E4%B8%8E%E5%8C%BA%E5%88%AB.md)
 
 63.[LruCache 算法源码解析](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/63.LruCache%20%E7%AE%97%E6%B3%95%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
