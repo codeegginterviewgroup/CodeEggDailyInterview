@@ -14,6 +14,8 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+75.[Serializable和Parcelable的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/75.Serializable%E5%92%8CParcelable%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
 74.[谈谈JVM的内存结构和内存分配](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/JVM/74.%E8%B0%88%E8%B0%88JVM%E7%9A%84%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84%E5%92%8C%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D.md)
 
 73.[怎样避免和解决ANR](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/73.%E6%80%8E%E6%A0%B7%E9%81%BF%E5%85%8D%E5%92%8C%E8%A7%A3%E5%86%B3ANR.md)
