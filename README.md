@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/84)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/89)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -14,6 +14,16 @@
 ### 看完心动了吗，心动不如行动，加群一起搞起来
 
 #### 历史面试题链接
+88.[深克隆与浅克隆的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/88.%E6%B7%B1%E5%85%8B%E9%9A%86%E4%B8%8E%E6%B5%85%E5%85%8B%E9%9A%86%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+87.[Android推送的基本原理](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/87.Android%E6%8E%A8%E9%80%81%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md)
+
+86.[并行和并发有什么区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/82.%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%B9%B6%E5%8F%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
+
+85.[Android主线程怎么给子线程发message](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/85.Android%E4%B8%BB%E7%BA%BF%E7%A8%8B%E6%80%8E%E4%B9%88%E7%BB%99%E5%AD%90%E7%BA%BF%E7%A8%8B%E5%8F%91message.md)
+
+84.[JVM加载class文件的原理机制](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/JVM/84.JVM%E5%8A%A0%E8%BD%BDclass%E6%96%87%E4%BB%B6%E7%9A%84%E5%8E%9F%E7%90%86%E6%9C%BA%E5%88%B6.md)
+
 83.[LinearLayout和RelativeLayout性能对比](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/83.LinearLayout%E5%92%8CRelativeLayout%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94.md)
 
 82.[并行和并发有什么区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/82.%E5%B9%B6%E8%A1%8C%E5%92%8C%E5%B9%B6%E5%8F%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
