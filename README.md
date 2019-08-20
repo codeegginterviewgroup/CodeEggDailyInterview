@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/89)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/92)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -11,9 +11,13 @@
 3. 每日分享，也欢迎群友进行分享
 4. 还有更多福利会在后期慢慢解锁.....
 
-### 看完心动了吗，心动不如行动，加群一起搞起来
+## 历史面试题链接
+91.[谈谈冷启动与热启动](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/91.%E8%B0%88%E8%B0%88%E5%86%B7%E5%90%AF%E5%8A%A8%E4%B8%8E%E7%83%AD%E5%90%AF%E5%8A%A8.md)
 
-#### 历史面试题链接
+90.[请描述一下View的绘制流程](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/90.%E8%AF%B7%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%8BView%E7%9A%84%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B.md)
+
+89.[请简述你对AsyncTask异步任务的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/89.%E8%AF%B7%E7%AE%80%E8%BF%B0%E4%BD%A0%E5%AF%B9AsyncTask%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
 88.[深克隆与浅克隆的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/88.%E6%B7%B1%E5%85%8B%E9%9A%86%E4%B8%8E%E6%B5%85%E5%85%8B%E9%9A%86%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 87.[Android推送的基本原理](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/87.Android%E6%8E%A8%E9%80%81%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md)
