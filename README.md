@@ -1,6 +1,6 @@
 # CodeEggDailyInterview
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/92)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/95)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -12,6 +12,15 @@
 4. 还有更多福利会在后期慢慢解锁.....
 
 ## 历史面试题链接
+
+95.[HashMap 排序问题]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/95.HashMap%20%E6%8E%92%E5%BA%8F.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/95.HashMap 排序.md))
+
+94.[String 为什么要设计成不可变的]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/94.String%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%BE%E8%AE%A1%E6%88%90%E4%B8%8D%E5%8F%AF%E5%8F%98%E7%9A%84.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/94.String 为什么要设计成不可变的.md))
+
+93.[Java nio 和 io 的区别]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/93.Java%20nio%20%E5%92%8C%20io%20%E7%9A%84%E5%8C%BA%E5%88%AB.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/93.Java nio 和 io 的区别.md))
+
+92.[XML文档定义有几种形式？它们之间有何本质区别？解析XML文档有哪几种方式？]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/92.XML%E6%96%87%E6%A1%A3%E5%AE%9A%E4%B9%89%E6%9C%89%E5%87%A0%E7%A7%8D%E5%BD%A2%E5%BC%8F%EF%BC%9F%E5%AE%83%E4%BB%AC%E4%B9%8B%E9%97%B4%E6%9C%89%E4%BD%95%E6%9C%AC%E8%B4%A8%E5%8C%BA%E5%88%AB%EF%BC%9F%E8%A7%A3%E6%9E%90XML%E6%96%87%E6%A1%A3%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%9F.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android 基础/92.XML文档定义有几种形式？它们之间有何本质区别？解析XML文档有哪几种方式？.md))
+
 91.[谈谈冷启动与热启动](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/91.%E8%B0%88%E8%B0%88%E5%86%B7%E5%90%AF%E5%8A%A8%E4%B8%8E%E7%83%AD%E5%90%AF%E5%8A%A8.md)
 
 90.[请描述一下View的绘制流程](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%BF%9B%E9%98%B6/90.%E8%AF%B7%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%8BView%E7%9A%84%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B.md)
