@@ -1,6 +1,6 @@
-# CodeEggDailyInterview
+## 「码个蛋」每日一题
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/95)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/98)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -12,6 +12,10 @@
 4. 还有更多福利会在后期慢慢解锁.....
 
 ## 历史面试题链接
+
+97.[为什么Java中不支持多重继承]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/97.%E4%B8%BA%E4%BB%80%E4%B9%88Java%E4%B8%AD%E4%B8%8D%E6%94%AF%E6%8C%81%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/97.为什么Java中不支持多重继承.md))
+
+96.[为什么 Java 中用 char 数组比 String 更适合存储密码]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/96.%E4%B8%BA%E4%BB%80%E4%B9%88%20Java%20%E4%B8%AD%E7%94%A8%20char%20%E6%95%B0%E7%BB%84%E6%AF%94%20String%20%E6%9B%B4%E9%80%82%E5%90%88%E5%AD%98%E5%82%A8%E5%AF%86%E7%A0%81.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/96.为什么 Java 中用 char 数组比 String 更适合存储密码.md))
 
 95.[HashMap 排序问题]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/95.HashMap%20%E6%8E%92%E5%BA%8F.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/95.HashMap 排序.md))
 
