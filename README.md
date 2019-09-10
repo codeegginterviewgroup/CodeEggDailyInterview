@@ -1,6 +1,6 @@
 ## 「码个蛋」每日一题
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/104)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/106)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -12,6 +12,11 @@
 4. 还有更多福利会在后期慢慢解锁.....
 
 ## 历史面试题链接
+
+105.[并发集合与普通集合的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/105.%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88%E4%B8%8E%E6%99%AE%E9%80%9A%E9%9B%86%E5%90%88%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+104.[如何停止一个正在运行的线程](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/104.%E5%A6%82%E4%BD%95%E5%81%9C%E6%AD%A2%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E8%BF%90%E8%A1%8C%E7%9A%84%E7%BA%BF%E7%A8%8B.md)
+
 103.[谈谈对 java 中反射的理解](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/103.%E8%B0%88%E8%B0%88%E5%AF%B9%20Java%20%E5%8F%8D%E5%B0%84%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
 102.[Java中用到的线程调度算法是什么？并作解释说明](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E8%BF%9B%E9%98%B6/102.Java%E4%B8%AD%E7%94%A8%E5%88%B0%E7%9A%84%E7%BA%BF%E7%A8%8B%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E5%B9%B6%E4%BD%9C%E8%A7%A3%E9%87%8A%E8%AF%B4%E6%98%8E.md)
