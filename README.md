@@ -1,6 +1,6 @@
 ## 「码个蛋」每日一题
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/106)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/112)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -12,6 +12,16 @@
 4. 还有更多福利会在后期慢慢解锁.....
 
 ## 历史面试题链接
+
+110.[类什么时候被初始化]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/110.%E7%B1%BB%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%A2%AB%E5%88%9D%E5%A7%8B%E5%8C%96.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/110.类什么时候被初始化.md))
+
+109.[什么是不可变对象，它对写并发应用有什么帮助]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/109.%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%8D%E5%8F%AF%E5%8F%98%E5%AF%B9%E8%B1%A1%EF%BC%8C%E5%AE%83%E5%AF%B9%E5%86%99%E5%B9%B6%E5%8F%91%E5%BA%94%E7%94%A8%E6%9C%89%E4%BB%80%E4%B9%88%E5%B8%AE%E5%8A%A9.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/109.什么是不可变对象，它对写并发应用有什么帮助.md))
+
+108.[谈谈对 java 注解的理解]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/108.%E8%B0%88%E8%B0%88%E5%AF%B9%20java%20%E6%B3%A8%E8%A7%A3%E7%9A%84%E7%90%86%E8%A7%A3.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/108.谈谈对 java 注解的理解.md))
+
+107.[重载(overload)和重写(override)的区别?重载的方法能否根据返回类型进行区分]([https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/107.%E9%87%8D%E8%BD%BD(overload)%E5%92%8C%E9%87%8D%E5%86%99(override)%E7%9A%84%E5%8C%BA%E5%88%AB%E9%87%8D%E8%BD%BD%E7%9A%84%E6%96%B9%E6%B3%95%E8%83%BD%E5%90%A6%E6%A0%B9%E6%8D%AE%E8%BF%94%E5%9B%9E%E7%B1%BB%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%8C%BA%E5%88%86.md](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java 基础/107.重载(overload)和重写(override)的区别重载的方法能否根据返回类型进行区分.md))
+
+106.[Java创建对象的几种方式](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/106.Java%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F.md)
 
 105.[并发集合与普通集合的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/105.%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88%E4%B8%8E%E6%99%AE%E9%80%9A%E9%9B%86%E5%90%88%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
