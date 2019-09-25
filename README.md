@@ -12,6 +12,13 @@
 4. 还有更多福利会在后期慢慢解锁.....
 
 ## 历史面试题链接
+114.[Wait()与Sleep()方法的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/114.Wait()%E4%B8%8ESleep()%E6%96%B9%E6%B3%95%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+113.[java中==和equals和hashCode的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/113.java%E4%B8%AD%3D%3D%E5%92%8Cequals%E5%92%8ChashCode%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+112.[阐述静态变量和实例变量的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/112.%E9%98%90%E8%BF%B0%E9%9D%99%E6%80%81%E5%8F%98%E9%87%8F%E5%92%8C%E5%AE%9E%E4%BE%8B%E5%8F%98%E9%87%8F%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+111.[简述下okhttp和retrofit的使用和联系](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/111.%E7%AE%80%E8%BF%B0%E4%B8%8Bokhttp%E5%92%8Cretrofit%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E8%81%94%E7%B3%BB.md)
 
 110.[类什么时候被初始化](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/110.%E7%B1%BB%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%A2%AB%E5%88%9D%E5%A7%8B%E5%8C%96.md)
 
