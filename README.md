@@ -1,6 +1,6 @@
 ## 「码个蛋」每日一题
 
-该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/112)**
+该项目用于记录「码个蛋打卡学习群」每日面试题。 **[今日份面试题戳这里](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/issues/118)**
 
 #### 1. 想要加群怎么办？
 加微信：`chad_cym`，并备注：加入打卡学习群
@@ -12,6 +12,14 @@
 4. 还有更多福利会在后期慢慢解锁.....
 
 ## 历史面试题链接
+118.[线程和进程的区别?，为什么不仅仅用进程](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/118.%E7%BA%BF%E7%A8%8B%E5%92%8C%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BB%85%E4%BB%85%E7%94%A8%E8%BF%9B%E7%A8%8B.md)
+
+117.[get 和 post 请求有哪些区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/%E7%BD%91%E7%BB%9C/117.get%20%E5%92%8C%20post%20%E8%AF%B7%E6%B1%82%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8C%BA%E5%88%AB.md)
+
+116.[Android10新特性及适配](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E5%9F%BA%E7%A1%80/116.Android10%E6%96%B0%E7%89%B9%E6%80%A7%E5%8F%8A%E9%80%82%E9%85%8D.md)
+
+115.[简述Android虚拟机和JAVA虚拟机的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Android%20%E8%99%9A%E6%8B%9F%E6%9C%BA/115.%E7%AE%80%E8%BF%B0Android%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%92%8CJAVA%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
 114.[Wait()与Sleep()方法的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/114.Wait()%E4%B8%8ESleep()%E6%96%B9%E6%B3%95%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 113.[java中==和equals和hashCode的区别](https://github.com/codeegginterviewgroup/CodeEggDailyInterview/blob/master/Java%20%E5%9F%BA%E7%A1%80/113.java%E4%B8%AD%3D%3D%E5%92%8Cequals%E5%92%8ChashCode%E7%9A%84%E5%8C%BA%E5%88%AB.md)
